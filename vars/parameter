@@ -1,0 +1,3 @@
+def call(String name, String DOW){
+  sh "echo {name} , {DOW} "
+}
